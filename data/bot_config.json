@@ -1,0 +1,20 @@
+{
+    "1351992245615853708": {
+        "logs_channel": 1353403954087854130,
+        "token_address": "0x0e47a516cd798ff48cac091d8cb886adec59a4f5",
+        "decimals": 18,
+        "token_symbol": "BINO",
+        "token_name": "BINO",
+        "bot_wallet": "0xa0333b21410de44760ea862e390426adb02d56c1",
+        "verification_amount": 2000000000000000000
+    },
+    "1355983893676687571": {
+        "logs_channel": 1355983899053789196,
+        "token_address": "0x3ea683354bf8d359cd9ec6e08b5aec291d71d880",
+        "decimals": 9,
+        "token_symbol": "IoShib",
+        "token_name": "IoTexShiba",
+        "bot_wallet": "0xa0333b21410de44760ea862e390426adb02d56c1",
+        "verification_amount": 1000000000
+    }
+}
